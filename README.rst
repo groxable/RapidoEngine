@@ -5,7 +5,7 @@
 Lightweight C++ engine
 ***********************
 
-Open source engine written on C++ by [Groxable](https://github.com/groxable/) and [Acemany](https://github.com/Acemany/). Uses the [SDL](https://github.com/libsdl-org/SDL) library and [Bullet physics engine](https://github.com/bulletphysics/bullet3).
+Open source engine written on C++ by `groxable <https://github.com/groxable>`_ and `acemany <https://github.com/Acemany>`_. Uses the `SDL <https://github.com/libsdl-org/SDL>`_ library and `Bullet physics engine <https://github.com/bulletphysics/bullet3>`_.
 
 ========
 Building
